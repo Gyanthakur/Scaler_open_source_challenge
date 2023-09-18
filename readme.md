@@ -1,2 +1,2 @@
-This is foe challenge #18
+This is for challenge #18
 Update the branch
